@@ -1,7 +1,12 @@
 # Hi, I'm Yijin
 
 **PhD in Statistics & Machine Learning (Imperial College London)**  
-My PhD research focuses on developing novel methodologies for statistical two-sample hypothesis testing, statistical association, and change point detection in the presence of missing data, especially when the missing data are informative. Applications include A/B testing, clinical trials, information retrieval, and continual learning. A key goal of my work is to enable valid and robust statistical inference in the presence of missing data, a common challenge in real-world scenarios. Make sure to check my work listed in the references if you are interested!
+My PhD research focuses on developing novel methodologies for statistical two-sample hypothesis testing, statistical association, and change point detection in the presence of missing data, especially when the missing data are informative. Applications include A/B testing, clinical trials, information retrieval, and continual learning. A key goal of my work is to enable valid and robust statistical inference in the presence of missing data, a common challenge in real-world scenarios. Make sure to check my work if you are interested!
+
+- [On two-sample testing for data with arbitrarily missing values.](https://arxiv.org/abs/2403.15327)
+- [MMD Two-sample Testing in the Presence of Arbitrarily Missing Data.](https://arxiv.org/abs/2405.15531)
+- [Exact Bounds of Spearman's footrule in the Presence of Missing Data with Applications to Independence Testing](https://arxiv.org/abs/2501.11696)
+
 
 - 🔬 Research interests: 
 - 🧪 Methods I work with: MMD, WMW, Spearman/Kendall, permutation/bootstraps, encoder–decoder RNNs
@@ -45,14 +50,6 @@ My PhD research focuses on developing novel methodologies for statistical two-sa
     ↳ <https://github.com/Yijin-Zeng/A-review-for-change-point-detection-methods>
   - **A review of deep Gaussian Process** — earning meaningful embedding with extreme small dataset (10-50 training samples).
     ↳ <https://github.com/Yijin-Zeng/A-Review-of-Deep-Gaussian-Process>
-    
-
----
-
-## 📦 Research & code
-- Repos include **README-first** docs, minimal APIs, and examples.
-- Where possible I add: `requirements.txt` / `environment.yml`, seeds, `Makefile`/`justfile`, and CI.
-- I’m adding `CITATION.cff` and LICENSE files across projects so others can cite & reuse.
 
 ---
 
