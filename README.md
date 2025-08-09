@@ -5,20 +5,15 @@ My PhD research focuses on developing novel methodologies for statistical two-sa
 
 - [On two-sample testing for data with arbitrarily missing values.](https://arxiv.org/abs/2403.15327)
 - [MMD Two-sample Testing in the Presence of Arbitrarily Missing Data.](https://arxiv.org/abs/2405.15531)
-- [Exact Bounds of Spearman's footrule in the Presence of Missing Data with Applications to Independence Testing](https://arxiv.org/abs/2501.11696)
-
-
-- 🔬 Research interests: 
-- 🧪 Methods I work with: MMD, WMW, Spearman/Kendall, permutation/bootstraps, encoder–decoder RNNs
-- ⚙️ Values: clarity, reproducibility, small APIs, measured claims
+- [Exact Bounds of Spearman's footrule in the Presence of Missing Data with Applications to Independence Testing.](https://arxiv.org/abs/2501.11696)
 
 ---
 
 ## 🔗 Start here
 
-- **Open-source packages**
+- **Open-source packages (selected)**
   
-  Part of my PhD is about coding my methodologies into open-source packages for real-world impact.
+  Part of my PhD is about coding my methodologies into real-world problems solutions.
   
   - **wmwm (Python)** — Wilcoxon–Mann–Whitney test with arbitrary missing data.
     ↳ <https://github.com/Yijin-Zeng/wmwm>
@@ -29,34 +24,25 @@ My PhD research focuses on developing novel methodologies for statistical two-sa
 
 - **Applied projects (selected)**
   
-  Besides my PhD work, I enjoy working on real world data science projects.
+  Besides my PhD work, I enjoy working on real-world data science projects. Sometimes for learning, sometimes for fun.
   
-  - **Signal Predictive Power Evaluation** — leak-free evaluation of a daily trading signal (walk-forward, costs)  
-    ↳ <https://github.com/Yijin-Zeng/Signal-Predictive-Power-Evaluation>
-  - **E-Commerce Order Cancellation Prediction** — imbalanced learning, cost-sensitive metrics, FP reduction  
+  - **E-Commerce Order Cancellation Prediction** — predict order cancellation with highly imbalanced dataset  
     ↳ <https://github.com/Yijin-Zeng/E-CommerceOrderCancellationPrediction>
-  - **Stock Clustering** — correlation networks → clusters; stability + downstream utility  
-    ↳ <https://github.com/Yijin-Zeng/StockClustering>
-  - **Hangman Game (NN)** — LSTM baseline + frequency heuristic for masked-word guessing  
+  - **Hangman Game (NN)** — playing word guessing game using deep learning with high success rate (~ 60%)  
     ↳ <https://github.com/Yijin-Zeng/HangmanGame>
-  - **Weather Forecasting** *(rename from “WeatherForcasting”)* — tidy pipelines for time-series forecasting  
-    ↳ <https://github.com/Yijin-Zeng/WeatherForecasting>
+  - **Stock Clustering** — cluster stocks using their daily return
+    ↳ <https://github.com/Yijin-Zeng/StockClustering>
+  - **Signal Predictive Power Evaluation** — evalute the predictive power for a signal  
+    ↳ <https://github.com/Yijin-Zeng/Signal-Predictive-Power-Evaluation>
 
-- **Understanding Machine Learning & Deep Learning**
+- **Understanding Machine Learning & Deep Learning (selected)**
   
-  I am curious about machine learning and deep learning, and try to understand how & why they work.
+  I am curious about machine learning and deep learning, and trying to understand how & why they work.
   
   - **A review for change point detection methods** — focusing on core methodologies and mathematical foundations
     ↳ <https://github.com/Yijin-Zeng/A-review-for-change-point-detection-methods>
   - **A review of deep Gaussian Process** — earning meaningful embedding with extreme small dataset (10-50 training samples).
     ↳ <https://github.com/Yijin-Zeng/A-Review-of-Deep-Gaussian-Process>
-
----
-
-## 📈 What I’m up to
-- Tight bounds + tests for rank-based statistics with missing data (Spearman footrule, Kendall’s τ, Spearman’s ρ)
-- Robust two-sample testing with MMD under MNAR
-- Practical evaluations: walk-forward validation and cost-aware metrics
 
 
 ## References
