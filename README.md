@@ -16,7 +16,9 @@ My PhD research focuses on developing novel methodologies for statistical two-sa
   Part of my PhD is about coding my methodologies into real-world problems solutions.
   
   - **wmwm (Python)** — Wilcoxon–Mann–Whitney test with arbitrary missing data.
+    
     ↳ <https://github.com/Yijin-Zeng/wmwm>
+    
   - **wmwm (R)** — Wilcoxon–Mann–Whitney test with arbitrary missing data.
     ↳ <https://github.com/Yijin-Zeng/Wilcoxon-Mann-Whitney-Test-with-Missing-data>
   - **bosfr (R)** — Right bounds for Spearman’s footrule with missing data  
