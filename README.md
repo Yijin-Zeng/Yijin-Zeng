@@ -1,23 +1,27 @@
 # Hi, I'm Yijin
 
 **PhD in Statistics & Machine Learning (Imperial College London)**  
-My PhD research focuses on developing novel methodologies for two-sample hypothesis testing, statistical association, and change point detection in the presence of missing data, especially when the missing data are informative. Applications include A/B testing, clinical trials, information retrieval, and continual learning. A key goal of my work is to enable valid and robust statistical inference in the presence of missing data, a common challenge in real-world scenarios. Make sure to check my work listed in the references if you are interested!
+My PhD research focuses on developing novel methodologies for statistical two-sample hypothesis testing, statistical association, and change point detection in the presence of missing data, especially when the missing data are informative. Applications include A/B testing, clinical trials, information retrieval, and continual learning. A key goal of my work is to enable valid and robust statistical inference in the presence of missing data, a common challenge in real-world scenarios. Make sure to check my work listed in the references if you are interested!
 
-- 🔬 Research interests: nonparametric testing, rank statistics, dependence measures, time series, robust ML
+- 🔬 Research interests: 
 - 🧪 Methods I work with: MMD, WMW, Spearman/Kendall, permutation/bootstraps, encoder–decoder RNNs
-- 💻 Tools: Python, R, PyTorch, TensorFlow, NumPy/Pandas, scikit-learn, tidymodels
 - ⚙️ Values: clarity, reproducibility, small APIs, measured claims
 
 ---
 
 ## 🔗 Start here
+
 - **Open-source packages**
-  - **wmwm (Python)** — Wilcoxon–Mann–Whitney utilities and experiments  
+  Part of my PhD is about coding my methodologies into open-source packages for real-world impact.
+  - **wmwm (Python)** — Wilcoxon–Mann–Whitney test with arbitrary missing data.
     ↳ <https://github.com/Yijin-Zeng/wmwm>
-  - **bosfr (R)** — Bounds & Optimization for Spearman’s Footrule with missing data  
+  - **wmwm (R)** — Wilcoxon–Mann–Whitney test with arbitrary missing data.
+    ↳ <https://github.com/Yijin-Zeng/Wilcoxon-Mann-Whitney-Test-with-Missing-data>
+  - **bosfr (R)** — Right bounds for Spearman’s footrule with missing data  
     ↳ <https://github.com/Yijin-Zeng/bosfr>
 
 - **Applied projects (selected)**
+  Besides my PhD work, I enjoy working on real world data science projects.
   - **Signal Predictive Power Evaluation** — leak-free evaluation of a daily trading signal (walk-forward, costs)  
     ↳ <https://github.com/Yijin-Zeng/Signal-Predictive-Power-Evaluation>
   - **E-Commerce Order Cancellation Prediction** — imbalanced learning, cost-sensitive metrics, FP reduction  
@@ -27,7 +31,15 @@ My PhD research focuses on developing novel methodologies for two-sample hypothe
   - **Hangman Game (NN)** — LSTM baseline + frequency heuristic for masked-word guessing  
     ↳ <https://github.com/Yijin-Zeng/HangmanGame>
   - **Weather Forecasting** *(rename from “WeatherForcasting”)* — tidy pipelines for time-series forecasting  
-    ↳ <https://github.com/Yijin-Zeng/WeatherForecasting>  <!-- update if repo name differs -->
+    ↳ <https://github.com/Yijin-Zeng/WeatherForecasting>
+
+  - **Understanding Machine Learning & Deep Learning**
+  I am curious about machine learning and deep learning, and try to understand how & why they work.
+  - **A review for change point detection methods** — focusing on core methodologies and mathematical foundations
+    ↳ <https://github.com/Yijin-Zeng/A-review-for-change-point-detection-methods>
+  - **A review of deep Gaussian Process** — earning meaningful embedding with extreme small dataset (10-50 training samples).
+    ↳ <https://github.com/Yijin-Zeng/A-Review-of-Deep-Gaussian-Process>
+    
 
 ---
 
