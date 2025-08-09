@@ -1,7 +1,7 @@
 # Hi, I'm Yijin
 
 **PhD in Statistics & Machine Learning (Imperial College London)**  
-My PhD research focuses on developing novel methodologies for two-sample hypothesis testing, statistical association, and change point detection in the presence of missing data, especially when the missing data are informative. Applications include A/B testing, clinical trials, information retrieval, and continual learning. A key goal of my work is to enable valid and robust statistical inference in the presence of missing data, a common challenge in real-world scenarios. 
+My PhD research focuses on developing novel methodologies for two-sample hypothesis testing, statistical association, and change point detection in the presence of missing data, especially when the missing data are informative. Applications include A/B testing, clinical trials, information retrieval, and continual learning. A key goal of my work is to enable valid and robust statistical inference in the presence of missing data, a common challenge in real-world scenarios. Make sure to check my work listed in the references if you are interested!
 
 - 🔬 Research interests: nonparametric testing, rank statistics, dependence measures, time series, robust ML
 - 🧪 Methods I work with: MMD, WMW, Spearman/Kendall, permutation/bootstraps, encoder–decoder RNNs
@@ -46,5 +46,7 @@ My PhD research focuses on developing novel methodologies for two-sample hypothe
 
 ## References
 [1] **Zeng Y**, Adams NM, Bodenham DA. On two-sample testing for data with arbitrarily missing values. arXiv preprint arXiv:2403.15327. 2024 Mar 22.
+
 [2] **Zeng Y**, Adams NM, Bodenham DA. MMD Two-sample Testing in the Presence of Arbitrarily Missing Data. arXiv preprint arXiv:2405.15531. 2024 May 24.
+
 [3] **Zeng Y**, Adams NM, Bodenham DA. Exact Bounds of Spearman's footrule in the Presence of Missing Data with Applications to Independence Testing. arXiv preprint arXiv:2501.11696. 2025 Jan 20.
