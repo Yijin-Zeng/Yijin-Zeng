@@ -15,13 +15,13 @@ Make sure to check my work if you are interested!
 
 - **Open-source packages (selected)**
   
-  Part of my PhD is about coding my methodologies into real-world problems solutions.
+  Part of my PhD is about shipping my methods as open-source libraries for real-world impact.
   
   - [**wmwm (Python)**](<https://github.com/Yijin-Zeng/wmwm>) — Wilcoxon–Mann–Whitney test with arbitrary missing data
     
   - [**wmwm (R)**](<https://github.com/Yijin-Zeng/Wilcoxon-Mann-Whitney-Test-with-Missing-data>) — Wilcoxon–Mann–Whitney test with arbitrary missing data
     
-  - [**bosfr (R)**](<https://github.com/Yijin-Zeng/bosfr>) — Right bounds for Spearman’s footrule with missing data
+  - [**bosfr (R)**](<https://github.com/Yijin-Zeng/bosfr>) — Tight bounds for Spearman’s footrule with missing data
 
 - **Applied projects (selected)**
   
@@ -33,7 +33,7 @@ Make sure to check my work if you are interested!
          
   - [**Stock Clustering**](<https://github.com/Yijin-Zeng/StockClustering>) — cluster stocks using their daily return
         
-  - [**Signal Predictive Power Evaluation**](<https://github.com/Yijin-Zeng/Signal-Predictive-Power-Evaluation>) — evalute the predictive power of a signal
+  - [**Signal Predictive Power Evaluation**](<https://github.com/Yijin-Zeng/Signal-Predictive-Power-Evaluation>) — evaluate the predictive power of a signal
     
 - **Understanding Machine Learning & Deep Learning (selected)**
   
