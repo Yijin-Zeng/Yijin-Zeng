@@ -39,7 +39,7 @@ My PhD research focuses on developing novel methodologies for statistical two-sa
   
   - [**A review for change point detection methods**](<https://github.com/Yijin-Zeng/A-review-for-change-point-detection-methods>) — focusing on core methodologies and mathematical foundations
   
-  - [**A review of deep Gaussian Process**](<https://github.com/Yijin-Zeng/A-Review-of-Deep-Gaussian-Process>) — earning meaningful embedding with extreme small dataset (10-50 training samples)
+  - [**A review of deep Gaussian Process**](<https://github.com/Yijin-Zeng/A-Review-of-Deep-Gaussian-Process>) — learning meaningful embedding with extreme small dataset (10-50 training samples)
     
 ## References
 [1] **Zeng Y**, Adams NM, Bodenham DA. On two-sample testing for data with arbitrarily missing values. arXiv preprint arXiv:2403.15327. 2024 Mar 22.
