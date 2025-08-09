@@ -23,7 +23,7 @@ Make sure to check my work if you are interested!
     
   - [**bosfr (R)**](<https://github.com/Yijin-Zeng/bosfr>) — Tight bounds for Spearman’s footrule with missing data
 
-- **Applied projects (selected)**
+- **Applied data science/machine learning/deep learning projects (selected)**
   
   Besides my PhD work, I enjoy working on real-world data science projects. Sometimes for learning, sometimes for fun.
   
@@ -35,7 +35,7 @@ Make sure to check my work if you are interested!
         
   - [**Signal Predictive Power Evaluation**](<https://github.com/Yijin-Zeng/Signal-Predictive-Power-Evaluation>) — evaluate the predictive power of a signal
     
-- **Understanding Machine Learning & Deep Learning (selected)**
+- **Understanding machine learning & deep learning (selected)**
   
   I am curious about machine learning and deep learning, and trying to understand how & why they work.
   
