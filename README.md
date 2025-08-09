@@ -12,7 +12,9 @@ My PhD research focuses on developing novel methodologies for statistical two-sa
 ## 🔗 Start here
 
 - **Open-source packages**
+  
   Part of my PhD is about coding my methodologies into open-source packages for real-world impact.
+  
   - **wmwm (Python)** — Wilcoxon–Mann–Whitney test with arbitrary missing data.
     ↳ <https://github.com/Yijin-Zeng/wmwm>
   - **wmwm (R)** — Wilcoxon–Mann–Whitney test with arbitrary missing data.
@@ -21,7 +23,9 @@ My PhD research focuses on developing novel methodologies for statistical two-sa
     ↳ <https://github.com/Yijin-Zeng/bosfr>
 
 - **Applied projects (selected)**
+  
   Besides my PhD work, I enjoy working on real world data science projects.
+  
   - **Signal Predictive Power Evaluation** — leak-free evaluation of a daily trading signal (walk-forward, costs)  
     ↳ <https://github.com/Yijin-Zeng/Signal-Predictive-Power-Evaluation>
   - **E-Commerce Order Cancellation Prediction** — imbalanced learning, cost-sensitive metrics, FP reduction  
@@ -33,8 +37,10 @@ My PhD research focuses on developing novel methodologies for statistical two-sa
   - **Weather Forecasting** *(rename from “WeatherForcasting”)* — tidy pipelines for time-series forecasting  
     ↳ <https://github.com/Yijin-Zeng/WeatherForecasting>
 
-  - **Understanding Machine Learning & Deep Learning**
+- **Understanding Machine Learning & Deep Learning**
+  
   I am curious about machine learning and deep learning, and try to understand how & why they work.
+  
   - **A review for change point detection methods** — focusing on core methodologies and mathematical foundations
     ↳ <https://github.com/Yijin-Zeng/A-review-for-change-point-detection-methods>
   - **A review of deep Gaussian Process** — earning meaningful embedding with extreme small dataset (10-50 training samples).
