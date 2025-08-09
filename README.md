@@ -9,7 +9,7 @@ My PhD research focuses on developing novel methodologies for statistical two-sa
 
 ---
 
-## 🔗 Start here
+## 🔗 GitHub Guide
 
 - **Open-source packages (selected)**
   
