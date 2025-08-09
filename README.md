@@ -20,21 +20,31 @@ My PhD research focuses on developing novel methodologies for statistical two-sa
     ↳ <https://github.com/Yijin-Zeng/wmwm>
     
   - **wmwm (R)** — Wilcoxon–Mann–Whitney test with arbitrary missing data.
+    
     ↳ <https://github.com/Yijin-Zeng/Wilcoxon-Mann-Whitney-Test-with-Missing-data>
-  - **bosfr (R)** — Right bounds for Spearman’s footrule with missing data  
+    
+  - **bosfr (R)** — Right bounds for Spearman’s footrule with missing data
+    
     ↳ <https://github.com/Yijin-Zeng/bosfr>
 
 - **Applied projects (selected)**
   
   Besides my PhD work, I enjoy working on real-world data science projects. Sometimes for learning, sometimes for fun.
   
-  - **E-Commerce Order Cancellation Prediction** — predict order cancellation with highly imbalanced dataset  
+  - **E-Commerce Order Cancellation Prediction** — predict order cancellation with highly imbalanced dataset
+    
     ↳ <https://github.com/Yijin-Zeng/E-CommerceOrderCancellationPrediction>
-  - **Hangman Game (NN)** — playing word guessing game using deep learning with high success rate (~ 60%)  
+    
+  - **Hangman Game (NN)** — playing word guessing game using deep learning with high success rate (~ 60%)
+     
     ↳ <https://github.com/Yijin-Zeng/HangmanGame>
+    
   - **Stock Clustering** — cluster stocks using their daily return
+    
     ↳ <https://github.com/Yijin-Zeng/StockClustering>
-  - **Signal Predictive Power Evaluation** — evalute the predictive power for a signal  
+    
+  - **Signal Predictive Power Evaluation** — evalute the predictive power for a signal
+    
     ↳ <https://github.com/Yijin-Zeng/Signal-Predictive-Power-Evaluation>
 
 - **Understanding Machine Learning & Deep Learning (selected)**
@@ -42,10 +52,12 @@ My PhD research focuses on developing novel methodologies for statistical two-sa
   I am curious about machine learning and deep learning, and trying to understand how & why they work.
   
   - **A review for change point detection methods** — focusing on core methodologies and mathematical foundations
+    
     ↳ <https://github.com/Yijin-Zeng/A-review-for-change-point-detection-methods>
-  - **A review of deep Gaussian Process** — earning meaningful embedding with extreme small dataset (10-50 training samples).
+  
+  - **A review of deep Gaussian Process** — earning meaningful embedding with extreme small dataset (10-50 training samples)
+    
     ↳ <https://github.com/Yijin-Zeng/A-Review-of-Deep-Gaussian-Process>
-
 
 ## References
 [1] **Zeng Y**, Adams NM, Bodenham DA. On two-sample testing for data with arbitrarily missing values. arXiv preprint arXiv:2403.15327. 2024 Mar 22.
