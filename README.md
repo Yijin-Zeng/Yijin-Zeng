@@ -25,7 +25,7 @@ Make sure to check my work if you are interested!
 
 - **Applied data science/machine learning/deep learning projects (selected)**
   
-  Besides my PhD work, I enjoy working on real-world data science projects. Sometimes for learning, sometimes for fun.
+  Besides my PhD work, I enjoy working on real-world data science/machine learning/deep learning projects. Sometimes for learning, sometimes for fun.
   
   - [**E-Commerce Order Cancellation Prediction**](<https://github.com/Yijin-Zeng/E-CommerceOrderCancellationPrediction>) — predict order cancellation with highly imbalanced dataset
         
