@@ -1,7 +1,9 @@
 # Hi, I'm Yijin
 
 **PhD in Statistics & Machine Learning (Imperial College London)**  
-My PhD research focuses on developing novel methodologies for statistical two-sample hypothesis testing, statistical association, and change point detection in the presence of missing data, especially when the missing data are informative. Applications include A/B testing, clinical trials, information retrieval, and continual learning. A key goal of my work is to enable valid and robust statistical inference in the presence of missing data, a common challenge in real-world scenarios. Make sure to check my work if you are interested!
+My PhD research focuses on developing novel methodologies for statistical two-sample hypothesis testing, statistical association, and change point detection in the presence of missing data, especially when the missing data are informative. Applications include A/B testing, clinical trials, information retrieval, and continual learning. A key goal of my work is to enable valid and robust statistical inference in the presence of missing data, a common challenge in real-world scenarios. 
+
+Make sure to check my work if you are interested!
 
 - [On two-sample testing for data with arbitrarily missing values.](https://arxiv.org/abs/2403.15327)
 - [MMD Two-sample Testing in the Presence of Arbitrarily Missing Data.](https://arxiv.org/abs/2405.15531)
