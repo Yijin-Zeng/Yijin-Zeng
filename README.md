@@ -17,11 +17,11 @@ Make sure to check my work if you are interested!
   
   Part of my PhD is about shipping my methods as open-source libraries for real-world impact.
   
-  - [**wmwm (Python)**](<https://github.com/Yijin-Zeng/wmwm>) — Wilcoxon–Mann–Whitney test with arbitrary missing data
+  - [**wmwm (Python)**](<https://github.com/Yijin-Zeng/wmwm>) — perform Wilcoxon–Mann–Whitney test with arbitrary missing data
     
-  - [**wmwm (R)**](<https://github.com/Yijin-Zeng/Wilcoxon-Mann-Whitney-Test-with-Missing-data>) — Wilcoxon–Mann–Whitney test with arbitrary missing data
+  - [**wmwm (R)**](<https://github.com/Yijin-Zeng/Wilcoxon-Mann-Whitney-Test-with-Missing-data>) — perform Wilcoxon–Mann–Whitney test with arbitrary missing data
     
-  - [**bosfr (R)**](<https://github.com/Yijin-Zeng/bosfr>) — Tight bounds for Spearman’s footrule with missing data
+  - [**bosfr (R)**](<https://github.com/Yijin-Zeng/bosfr>) — compute tight bounds for Spearman’s footrule with missing data
 
 - **Applied data science/machine learning/deep learning projects (selected)**
   
@@ -29,7 +29,7 @@ Make sure to check my work if you are interested!
   
   - [**E-Commerce Order Cancellation Prediction**](<https://github.com/Yijin-Zeng/E-CommerceOrderCancellationPrediction>) — predict order cancellation with highly imbalanced dataset
         
-  - [**Hangman Game**](<https://github.com/Yijin-Zeng/HangmanGame>) — playing word guessing game using deep learning with high success rate (~ 60%)
+  - [**Hangman Game**](<https://github.com/Yijin-Zeng/HangmanGame>) — play word guessing game using deep learning with high success rate (~ 60%)
          
   - [**Stock Clustering**](<https://github.com/Yijin-Zeng/StockClustering>) — cluster stocks using their daily return
         
@@ -39,9 +39,9 @@ Make sure to check my work if you are interested!
   
   I am curious about machine learning and deep learning, and trying to understand how & why they work.
   
-  - [**A review for change point detection methods**](<https://github.com/Yijin-Zeng/A-review-for-change-point-detection-methods>) — focusing on core methodologies and mathematical foundations
+  - [**A review for change point detection methods**](<https://github.com/Yijin-Zeng/A-review-for-change-point-detection-methods>) — focuse on core methodologies and mathematical foundations of various change point detection methods
   
-  - [**A review of deep Gaussian Process**](<https://github.com/Yijin-Zeng/A-Review-of-Deep-Gaussian-Process>) — learning meaningful embedding with extreme small dataset (10-50 training samples)
+  - [**A review of deep Gaussian Process**](<https://github.com/Yijin-Zeng/A-Review-of-Deep-Gaussian-Process>) — learn meaningful embedding with extreme small dataset (10-50 training samples)
     
 ## References
 [1] **Zeng Y**, Adams NM, Bodenham DA. On two-sample testing for data with arbitrarily missing values. arXiv preprint arXiv:2403.15327. 2024 Mar 22.
