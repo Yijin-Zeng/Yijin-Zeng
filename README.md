@@ -1,7 +1,7 @@
 # Hi, I'm Yijin
 
 **PhD in Statistics & Machine Learning (Imperial College London)**  
-I design methods for **two-sample testing**, **statistical association**, and **change-point detection** under **missing data** (MCAR/MAR/MNAR). I care about theory you can ship: valid inference + practical, reproducible code.
+My PhD research focuses on developing novel methodologies for two-sample hypothesis testing, statistical association, and change point detection in the presence of missing data. Applications include A/B testing, clinical trials, information retrieval, and continual learning.
 
 - 🔬 Research interests: nonparametric testing, rank statistics, dependence measures, time series, robust ML
 - 🧪 Methods I work with: MMD, WMW, Spearman/Kendall, permutation/bootstraps, encoder–decoder RNNs
