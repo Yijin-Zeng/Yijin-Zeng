@@ -21,7 +21,7 @@ Make sure to check my work if you are interested!
     
   - [**wmwm (R)**](<https://github.com/Yijin-Zeng/Wilcoxon-Mann-Whitney-Test-with-Missing-data>) — perform Wilcoxon–Mann–Whitney test with arbitrary missing data
     
-  - [**bosfr (R)**](<https://github.com/Yijin-Zeng/bosfr>) — compute tight bounds for Spearman’s footrule with missing data
+  - [**bosfr (R)**](<https://github.com/Yijin-Zeng/bosfr-R-package>) — compute tight bounds for Spearman’s footrule with missing data
 
 - **Applied data science/machine learning/deep learning projects (selected)**
   
