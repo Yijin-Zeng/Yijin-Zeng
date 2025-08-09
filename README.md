@@ -29,7 +29,7 @@ Make sure to check my work if you are interested!
   
   - [**E-Commerce Order Cancellation Prediction**](<https://github.com/Yijin-Zeng/E-CommerceOrderCancellationPrediction>) — predict order cancellation with highly imbalanced dataset
         
-  - [**Hangman Game (NN)**](<https://github.com/Yijin-Zeng/HangmanGame>) — playing word guessing game using deep learning with high success rate (~ 60%)
+  - [**Hangman Game**](<https://github.com/Yijin-Zeng/HangmanGame>) — playing word guessing game using deep learning with high success rate (~ 60%)
          
   - [**Stock Clustering**](<https://github.com/Yijin-Zeng/StockClustering>) — cluster stocks using their daily return
         
