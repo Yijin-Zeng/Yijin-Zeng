@@ -13,7 +13,7 @@ Link to my [CV](https://yijin-zeng.github.io/cv.pdf).
 
 ---
 
-## 🔗 GitHub Guide
+## GitHub Guide
 
 - **Open-source packages (selected)**
   
