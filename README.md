@@ -9,6 +9,8 @@ Make sure to check my work if you are interested!
 - [MMD Two-sample Testing in the Presence of Arbitrarily Missing Data.](https://arxiv.org/abs/2405.15531)
 - [Exact Bounds of Spearman's footrule in the Presence of Missing Data with Applications to Independence Testing.](https://arxiv.org/abs/2501.11696)
 
+Link to my [CV](https://cdn.jsdelivr.net/gh/Yijin-Zeng/CV/CVYijinZeng.pdf).
+
 ---
 
 ## 🔗 GitHub Guide
