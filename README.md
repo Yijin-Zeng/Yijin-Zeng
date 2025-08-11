@@ -31,7 +31,7 @@ Make sure to check my work if you are interested!
         
   - [**Hangman Game**](<https://github.com/Yijin-Zeng/HangmanGame>) — play word guessing game using deep learning with high success rate (~ 60%)
          
-  - [**Stock Clustering**](<https://github.com/Yijin-Zeng/StockClustering>) — cluster stocks using their daily return
+  - [**Stock Clustering**](<https://github.com/Yijin-Zeng/StockClustering>) — cluster stocks using daily return
         
   - [**Signal Predictive Power Evaluation**](<https://github.com/Yijin-Zeng/Signal-Predictive-Power-Evaluation>) — evaluate the predictive power of a signal
     
