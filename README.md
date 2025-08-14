@@ -33,9 +33,9 @@ Link to my [CV](https://yijin-zeng.github.io/cv.pdf).
         
   - [**Hangman Game**](<https://github.com/Yijin-Zeng/HangmanGame>) — play word guessing game using deep learning with high success rate (~ 60%)
          
-  - [**Stock Clustering**](<https://github.com/Yijin-Zeng/StockClustering>) — cluster stocks using daily return
+  - [**Stock Clustering**](<https://github.com/Yijin-Zeng/StockClustering>) — cluster 486 stocks using daily return in 2015
         
-  - [**Signal Predictive Power Evaluation**](<https://github.com/Yijin-Zeng/Signal-Predictive-Power-Evaluation>) — evaluate the predictive power of a signal
+  - [**Fine-Tuning-Qwen2.5-Coder-3B-Instruct**](<https://github.com/Yijin-Zeng/Fine-Tuning-Qwen2.5-Coder-3B-Instruct>) — learning curve for LLM fine tuning
     
 - **Understanding machine learning & deep learning (selected)**
   
