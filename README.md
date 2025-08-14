@@ -1,6 +1,6 @@
 # Hi, I'm Yijin
 
-**PhD in Statistics & Machine Learning (Imperial College London), currently enrolled in the Statistics and Machine Learning Centre for Doctoral Training ([StatML CDT](<https://statml.io>))**  
+**PhD in Statistics & Machine Learning at Imperial College London, currently enrolled in the Statistics and Machine Learning Centre for Doctoral Training ([StatML CDT](<https://statml.io>))** by Imperial \& Oxford.  
 My PhD research focuses on developing novel methodologies for statistical two-sample hypothesis testing, statistical association, and change point detection in the presence of missing data, especially when the missing data are informative. Applications include A/B testing, clinical trials, information retrieval, and continual learning. A key goal of my work is to enable valid and robust statistical inference in the presence of missing data, a common challenge in real-world scenarios. 
 
 Make sure to check my work if you are interested!
