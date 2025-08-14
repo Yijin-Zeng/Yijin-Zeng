@@ -16,7 +16,7 @@ Link to my [CV](https://yijin-zeng.github.io/cv.pdf).
 
 ## GitHub Guide
 
-- **Open-source packages (selected)**
+- **(Selected) Open-source packages**
   
   Part of my PhD is about shipping my methods as open-source libraries for real-world impact.
   
@@ -26,7 +26,7 @@ Link to my [CV](https://yijin-zeng.github.io/cv.pdf).
     
   - [**bosfr (R)**](<https://github.com/Yijin-Zeng/bosfr-R-package>) — compute tight bounds for Spearman’s footrule with missing data
 
-- **Applied data science/machine learning/deep learning projects (selected)**
+- **(Selected) Applied data science/machine learning/deep learning projects**
   
   Besides my PhD work, I enjoy working on real-world data science/machine learning/deep learning projects.
   
@@ -39,7 +39,7 @@ Link to my [CV](https://yijin-zeng.github.io/cv.pdf).
   - [**Stock Clustering**](<https://github.com/Yijin-Zeng/StockClustering>) — cluster 486 stocks using daily return in 2015
 
     
-- **Understanding machine learning & deep learning (selected)**
+- **(Selected) Understanding machine learning & deep learning**
   
   I am curious about machine learning and deep learning, and trying to understand how & why they work.
   
