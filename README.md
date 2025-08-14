@@ -1,6 +1,8 @@
 # Hi, I'm Yijin
 
-**PhD in Statistics & Machine Learning at Imperial College London, currently enrolled in the Statistics and Machine Learning Centre for Doctoral Training ([StatML CDT](<https://statml.io>))** by Imperial \& Oxford.  
+**PhD in Statistics & Machine Learning at Imperial College London, currently enrolled in the Statistics and Machine Learning Centre for Doctoral Training ([StatML CDT](<https://statml.io>)) by Imperial \& Oxford.**
+
+A link to my [CV](https://yijin-zeng.github.io/cv.pdf).
 
 My PhD research focuses on developing novel methodologies for statistical two-sample hypothesis testing, statistical association, and change point detection in the presence of missing data, especially when the missing data are informative. Applications include A/B testing, casual inference, information retrieval, and continual learning. A key goal of my work is to enable valid and robust statistical inference in the presence of missing data, a common challenge in real-world scenarios. 
 
@@ -10,7 +12,6 @@ Make sure to check my work if you are interested!
 - [MMD Two-sample Testing in the Presence of Arbitrarily Missing Data.](https://arxiv.org/abs/2405.15531)
 - [Exact Bounds of Spearman's footrule in the Presence of Missing Data with Applications to Independence Testing.](https://arxiv.org/abs/2501.11696)
 
-A link to my [CV](https://yijin-zeng.github.io/cv.pdf).
 
 ---
 
