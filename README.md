@@ -35,7 +35,7 @@ Link to my [CV](https://yijin-zeng.github.io/cv.pdf).
          
   - [**Stock Clustering**](<https://github.com/Yijin-Zeng/StockClustering>) — cluster 486 stocks using daily return in 2015
         
-  - [**Fine-Tuning-Qwen2.5-Coder-3B-Instruct**](<https://github.com/Yijin-Zeng/Fine-Tuning-Qwen2.5-Coder-3B-Instruct>) — learning curve for LLM fine tuning
+  - [**Fine-Tuning-Qwen2.5-Coder-3B-Instruct**](<https://github.com/Yijin-Zeng/Fine-Tuning-Qwen2.5-Coder-3B-Instruct>) — learning curve for LLM fine-tuning
     
 - **Understanding machine learning & deep learning (selected)**
   
