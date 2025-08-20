@@ -44,7 +44,6 @@ Make sure to check my work if you are interested!
   
   - [**A review for change point detection methods**](<https://github.com/Yijin-Zeng/A-review-for-change-point-detection-methods>) — focuse on core methodologies and mathematical foundations of various change point detection methods
   
-  - [**A review of deep Gaussian Process**](<https://github.com/Yijin-Zeng/A-Review-of-Deep-Gaussian-Process>) — learn meaningful embedding with extreme small dataset (10-50 training samples)
     
 ## References
 [1] **Zeng Y**, Adams NM, Bodenham DA. On two-sample testing for data with arbitrarily missing values. arXiv preprint arXiv:2403.15327. 2024 Mar 22.
